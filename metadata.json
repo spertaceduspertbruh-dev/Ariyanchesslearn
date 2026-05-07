@@ -1,0 +1,6 @@
+{
+  "name": "Ariyanchesslearner",
+  "description": "An AI-powered chess learning platform with a interactive board and a Gemini Grandmaster coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
